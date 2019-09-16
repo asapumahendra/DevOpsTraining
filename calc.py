@@ -1,6 +1,6 @@
 def add(x,y):
-    """Add function"""
-        return x + y
+    """Add function X Y"""
+       return x + y
 
         def sub(x,y):
             """subtract function"""
@@ -13,4 +13,3 @@ def add(x,y):
                   def div(x,y):
                       """divide function"""
                         return x / y
-
